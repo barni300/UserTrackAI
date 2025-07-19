@@ -1,0 +1,20 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# System files macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Virtual environment files Python
+venv/
+.env
+__pycache__/
+*.pyc
+
+# Temp files
+*.log
+*.tmp
+
+# IDE settings
+.vscode/
+.idea/
