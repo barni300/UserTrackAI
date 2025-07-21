@@ -26,8 +26,6 @@ The project includes:
 - **scikit-learn**
 - **geopandas**, **folium**
 
-> ⚠️ **Note**: Due to privacy or size constraints, the raw data files are not uploaded to this repository. You may need to contact the authors to access them.
-
 ## 📍 Highlights
 
 - Distribution and uniqueness of product, session, and user data  
