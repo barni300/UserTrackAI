@@ -1,6 +1,6 @@
 # UserTrackAI
 
-This repository contains an exploratory data analysis (EDA) of user behavior, product data, and session activity in an e-commerce environment.
+> This repository contains an exploratory data analysis (EDA) of user behavior, product data, and session activity in an e-commerce environment.
 
 ## 📊 Project Overview
 
