@@ -2,7 +2,7 @@
 
 > This repository contains an exploratory data analysis (EDA) of user behavior, product data, and session activity in an e-commerce environment.
 
-## 📊 Project Overview
+##  Project Overview
 
 The goal of this project is to understand how users interact with an online store by analyzing three main datasets:
 
@@ -17,7 +17,7 @@ The project includes:
 - Encoding and feature transformation  
 - Geospatial analysis using `geopandas` and `folium`
 
-## 🧰 Technologies Used
+##  Technologies Used
 
 - **Python 3.x**
 - **Jupyter Notebook**
@@ -26,7 +26,7 @@ The project includes:
 - **scikit-learn**
 - **geopandas**, **folium**
 
-## 📍 Highlights
+##  Highlights
 
 - Distribution and uniqueness of product, session, and user data  
 - Detection of missing values and basic data imputation  
